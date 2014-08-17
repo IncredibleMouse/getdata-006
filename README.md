@@ -21,4 +21,4 @@ Steps to transform the raw data into tidy data
 * The data consists of a subject_number, an activity_name, and the mean of the available measurements (for mean and std. deviation values only).
 
 ### The Codebook
-For more information about the variables in the resulting cleaned data set, please view the codebook.md
+For more information about the variables in the resulting cleaned data set, please view the [codebook.md](https://github.com/IncredibleMouse/getdata-006/blob/master/codebook.md)
