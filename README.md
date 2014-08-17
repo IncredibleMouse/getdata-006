@@ -6,7 +6,7 @@ Author: IncredibleMouse
 Date: 08/17/2014  
 
 ### About
-This project cleans and organizes a data set comprised of measurements captured by subjects performing various activities while wearing a smartphone, The original data was culled by extracting just the mean and standard deviation variables, and for each subject and activity performed, a mean was aggregated - for both the training data set and the test data set.
+This project cleans and organizes a data set comprised of measurements captured by subjects performing various activities while wearing a smartphone. The original data was culled by extracting just the mean and standard deviation variables, and for each subject and activity performed, a mean was aggregated - for both the training data set and the test data set.
 
 ### Original Data Set
 The original data set can be obtained from [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).  
