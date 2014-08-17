@@ -13,7 +13,7 @@ The original data set can be obtained from [here](https://d396qusza40orc.cloudfr
 The original data description can be found at the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 ### Run the Analysis (Cleaning of Data)
-1. Be sure you have the /data folder and its contents, also available at the above listed github repository.
+1. Be sure you have the /data folder and its contents, also available in this github repository.
 1. Run the run_analysis.R source to produce the tidyset.csv
 
 ### The Result: tidyset.csv
