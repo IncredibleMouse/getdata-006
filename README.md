@@ -1,9 +1,9 @@
 getdata-006
 ===========
 
-Getting and Cleaning Data, Course Project, Coursera Project: getdata-006
-Author: IncredibleMouse
-Date: 08/17/2014
+Getting and Cleaning Data, Course Project, Coursera Project: getdata-006  
+Author: IncredibleMouse  
+Date: 08/17/2014  
 
 ### About
 This project cleans and organizes a data set comprised of measurements captured by subjects performing various activities while wearing a smartphone, The original data was culled by extracting just the mean and standard deviation variables, and for each subject and activity performed, a mean was aggregated - for both the training data set and the test data set.
